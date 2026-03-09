@@ -27,7 +27,7 @@ terraform-parse/
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 Make sure the following tools are installed:
 
